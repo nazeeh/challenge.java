@@ -25,7 +25,7 @@ public class MainActivity extends Activity
 
         createLayout();
 
-        setTitle("Put Your Name Here...");
+        setTitle("Nazeeh Ammari");
     }
 
     private void createLayout()
